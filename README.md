@@ -5,6 +5,6 @@ An API
 This is an project based on: **Django for APIs**
 
 The APIs project includes:
-        - Permission
-        - Authentication
-        - ViewSet
+- Permission
+- Authentication
+- ViewSet
